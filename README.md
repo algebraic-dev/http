@@ -1,6 +1,13 @@
 # Http.lean
 
-A WIP implementation of HTTP protocol in [Lean 4](https://github.com/leanprover/lean4).
+An implementation of HTTP protocol in [Lean 4](https://github.com/leanprover/lean4).
+
+> ⚠️ **Project Status Notice**
+>
+> This project is no longer the primary development location.
+>  
+> The HTTP implementation has been **moved into the Lean 4 repository** and now lives under  
+> **`Std.Http`** (It's a PR rn) in the official **lean4** prover repository.
 
 ## The Goal
 
